@@ -1,3 +1,8 @@
 @import url("common.css");
 @import url("side_menu.css");
 @import url("staff_entry.css");
+
+.curriculum_list {
+ padding-left: 30px;
+ padding-bottom: 30px;
+}
