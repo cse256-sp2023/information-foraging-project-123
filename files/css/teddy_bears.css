@@ -81,3 +81,17 @@ main li {
 #class-schedule td {
     border: 1px solid #ddd;
 }
+
+#teddybear-topics {
+    width: 90%;
+    text-align: left;
+    margin: auto;
+    background-color: #a51417;
+}
+#teddybear-topics div {
+margin: 2.5em;
+}
+#teddybear-topics p {
+    width: 100%;
+    color: #ddd;
+    }
