@@ -81,3 +81,7 @@ main li {
 #class-schedule td {
     border: 1px solid #ddd;
 }
+
+.tbheader{
+    font-weight: bold;
+}
