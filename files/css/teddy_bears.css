@@ -85,3 +85,11 @@ main li {
 .tbheader{
     font-weight: bold;
 }
+
+.subtitle-article{
+    font-weight: bold;
+    color: #A51417;
+    font-size: 20px;
+    font-style: italic;
+    
+}
